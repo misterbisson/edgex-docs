@@ -1,0 +1,6 @@
+# Ignore by file path
+- paths:
+    - 2.2/search/search_index.json
+    - "2.3/search/search_index.json"
+    - **/search_index.json
+
